@@ -14,8 +14,7 @@ http://3.19.71.179:1337/bin/431800
 
 Don't know where to look?
 
-
-![alt text]([https://i.imgur.com/LKawqnt.png])
+![Alt text](https://i.imgur.com/LKawqnt.png "Optional title")
 
 
 # Example
