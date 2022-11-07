@@ -14,4 +14,25 @@ http://3.19.71.179:1337/bin/431800
 
 Don't know where to look?
 
-[img]https://i.imgur.com/LKawqnt.png
+[card bin](https://i.imgur.com/LKawqnt.png)
+
+# Example
+
+GET http://localhost:8080/bin/431800
+
+```json
+{
+  "bin": "431800",
+  "brand": "VISA",
+  "type": "CREDIT",
+  "category": "CLASSIC",
+  "issuer": "CHASE BANK USA, N.A.",
+  "alpha_2": "US",
+  "alpha_3": "USA",
+  "country": "United States",
+  "latitude": "37.0902",
+  "longitude": "-95.7129",
+  "bank_phone": "1-877-242-7372",
+  "bank_url": "www.chase.com"
+}
+```
