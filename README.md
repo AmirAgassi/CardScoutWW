@@ -1,4 +1,4 @@
-# CreditCardScoutWW
+# CardScoutWW
  Get instant, detailed credit card details from any bank worldwide, including card issuing bank, types, brands, countries, and approximate geolocations.
 
 # Features
